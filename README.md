@@ -15,3 +15,6 @@ This script automates GSEA PREranked for each cluster .rnk file
 
 # FastMNN.r
 This script can be used to run Mutual nearest neighbor analysis
+
+# cellChat.R
+This script can be used to run cell chat analysis 
