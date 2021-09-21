@@ -1,6 +1,6 @@
 
 ############## Script to Run MNN (Mutual Nearest Neighbor) analysis
-############## Seurat >v3.0.0 Objects required
+############## Seurat >v3.2.3 Objects required
 
 
 ############ Load libraries
